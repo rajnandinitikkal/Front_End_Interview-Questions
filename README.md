@@ -18,6 +18,9 @@ Front End Languages :
 ### 3. What is the purpose of <> head tag in HTML ?
 - The purpose of head tag is to describe the indentity of webpage.
 
+### What are void elements in HTML?
+### What is the advantage of collapsing white space?
+### What are HTML Entities?
 <br>
 
 # CSS 
@@ -49,3 +52,5 @@ Front End Languages :
 ### How does Node.js differ from traditional server-side languages like Java or PHP ?
 -
 ### What is NPM and what is its role in Node.js
+
+
