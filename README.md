@@ -9,6 +9,8 @@ Front End Languages :
 
 # HTML 
 
+HTML is a HyperText Markup Language used for writing content in website designing . HTML File save with .html file .
+
 ### 1. What is HTML ?
 - HTML is a markup language used for creating web pages. It uses define elements like headings, paragraphs, links and images.<br>
 Example: 
@@ -18,7 +20,7 @@ Example:
 
 
 ### 2. What are tags in HTML ?
-- HTML tahs are used to define and structure the content of web pages . They provide meaning & formatting to the text or elemets within tags. Tags have opening and closing parts.
+- HTML tags are used to define and structure the content of web pages . They provide meaning & formatting to the text or elemets within tags. Tags have opening and closing parts.
 
 ### 3. What is the purpose of head tag in HTML ?
 - The purpose of head tag is to describe the indentity of webpage.
