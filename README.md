@@ -49,8 +49,15 @@ Example:
 <a href="https://www.example.com">Visit Example.com</a>
 ```
 
-Explain the difference between "<div>" and "<span>" in HTML.
-- 
+Explain the difference between "div" and "span" in HTML.
+```
+<div></div>
+```
+div is a block-level element used for grouping and styling larger sections of content.
+```
+<span></span>
+```
+span is an inline-level element used for styling element used for styling smaller portions of text or content.
 
 
 # CSS 
