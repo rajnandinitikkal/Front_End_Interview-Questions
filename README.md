@@ -1,10 +1,15 @@
-# Front End Interview Questions
+# Frequently asked Interview Questions
 
-Front End Languages :
-- HTML
-- CSS 
-- JAVASCRIPT
+## HTML, CSS, BOOTSTRAP, JAVASCRIPT 
 
+### What is Full-stack Development?
+- Full-stack development involves working on both the front-end and back-end of web applications. It includes client-side (frontend) server-side (backend) development.
+
+### Name some popilar technologies used in full-stack development.
+- Common technologies include HTML, CSS, JavaScript, React (for frontend), Node.js, Express.js, Python, Ruby on Rails (for backend).
+
+### Explain the difference between client-side and server-side scripting.
+- Client-side scripting scripting in the user's browser, while server-side scripting runs ion the web server. For example, Javascript is a client-side script, while Node.js is a server-side sript.
 <br>
 
 # HTML 
@@ -49,7 +54,7 @@ Example:
 <a href="https://www.example.com">Visit Example.com</a>
 ```
 
-Explain the difference between "div" and "span" in HTML.
+### Explain the difference between "div" and "span" in HTML.
 ```
 <div></div>
 ```
