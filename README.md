@@ -105,6 +105,11 @@ div is a block-level element used for grouping and styling larger sections of co
 ```
 span is an inline-level element used for styling element used for styling smaller portions of text or content.
 
+### What is the use of br tag?
+Br tag is used for breaking line
+```
+<br>
+```
 
 # CSS 
 
