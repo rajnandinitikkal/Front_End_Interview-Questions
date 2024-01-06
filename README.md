@@ -141,4 +141,10 @@ Br tag is used for breaking line
 -
 ### What is NPM and what is its role in Node.js
 
+## Angular
+- Angular is the framework developed by Google using TypeScript language.
+
+## AngularJs
+- AngularJs is framwork developed by Google using JavaScript language.
+
 
