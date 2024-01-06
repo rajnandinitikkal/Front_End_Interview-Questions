@@ -26,7 +26,7 @@
 ### How does authentication work in full-stack application?
 - Authentication verifies a user's identity. Typically, a user logs in a with a username and password. JWT (JSON Web Tokens) is a common method used to authenticate and authorize users in full-stack applications.
 
-### What is version control, and ehy is it important in software development?
+### What is version control, and why is it important in software development?
 - Version control helps track changes to code, collaborate with others, and revert to previous versions if needed. Git is a widely used version control sysytem. For example, you can use GitHub to host and collaborate on your code.
 
 ### What is microservices architecture, and how does it differ from a monolithic architecture?
