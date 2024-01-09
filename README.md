@@ -53,6 +53,9 @@ HTTPS encrypts the data exchanged between the user's browser and the web server 
 - Responsive web design is an approach that ensures a web page's layout and content adapt to different screen and devices, providing an optimal user experience.
 - Example: A responsive website will rearrange its content and navigation when viewed on a mobile device to fit the smaller screen.
 
+### What is web browser's developer console, and why is it useful for web deveplopment?
+- A developer console is a tool in web browsers that allows developers to inspect and debug wab pages.
+
 # HTML 
 
 HTML is a HyperText Markup Language used for writing content in website designing . HTML File save with .html file .
