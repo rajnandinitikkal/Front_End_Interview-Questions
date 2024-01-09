@@ -54,7 +54,16 @@ HTTPS encrypts the data exchanged between the user's browser and the web server 
 - Example: A responsive website will rearrange its content and navigation when viewed on a mobile device to fit the smaller screen.
 
 ### What is web browser's developer console, and why is it useful for web deveplopment?
-- A developer console is a tool in web browsers that allows developers to inspect and debug wab pages.
+- A developer console is a tool in web browsers that allows developers to inspect and debug wab pages. It's useful for troubleshooting code issues and testing.
+
+### What is cookie in web development?
+- A cookie is a small piece of data stored on a user's computer by a website. It's commonly used to store user preferences and secssions information.
+- <b>Example</b> Cookies can be used to remember a user's login status on a website.
+
+### What is the Document Object Model (DOM) in web development?
+- The DOM is a programming interface for a web documents. It reprents the page's structure and content as a tree of objects, allowing developers to manipulate and interact with web pages dynamically.
+
+-Example : JavaScript can be used to modify the DOM, such as changing the content of an HTML element or adding/removing elements.
 
 # HTML 
 
