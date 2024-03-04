@@ -65,119 +65,12 @@ HTTPS encrypts the data exchanged between the user's browser and the web server 
 
 -Example : JavaScript can be used to modify the DOM, such as changing the content of an HTML element or adding/removing elements.
 
-# HTML 
 
-HTML is a HyperText Markup Language used for writing content in website designing . HTML File save with .html file .
 
-### 1. What is HTML ?
-- HTML is a markup language used for creating web pages. It uses define elements like headings, paragraphs, links and images.<br>
-Example: 
-```
-<p> This is a paragraph </p> defines a paragraph in HTML
-```
 
-### 2. What are tags in HTML ?
-- HTML tags are used to define and structure the content of web pages . They provide meaning & formatting to the text or elemets within tags. Tags have opening and closing parts.
 
-### 3. What is the purpose of head tag in HTML ?
-- The purpose of head tag is to describe the indentity of webpage.
-- There are six head tags in which h1 is very larger and h6 is smallest heading tag.
-```
-<h1></h1> 
-<h2></h2> 
-<h3></h3> 
-<h4></h4> 
-<h5></h5> 
-<h6></h6> 
-```
 
-### Explain the difference between HTML & XHTML.
-- HTML is more forgiving of syntax errors, while XHTML follows a stricter set of rules. In XHTML, all tags must be properly nested and closed attribute values must be enclosed in double quotes.
 
-### What is the purpose of the HTML DOCTYPE declaration ?
-```
-<!DOCTYPE>
-```
-- The DOCTYPE declaration specifies the document type and version of HTML being used. It helps browsers render the page correctly.
 
-### How do you create a hyperlink in HTML ?
-- You can create a hyperlink using the anchor element .
-- Example 
-```
-<a href="https://www.example.com">Visit Example.com</a>
-```
-
-### Explain the difference between "div" and "span" in HTML.
-```
-<div></div>
-```
-div is a block-level element used for grouping and styling larger sections of content.
-```
-<span></span>
-```
-span is an inline-level element used for styling element used for styling smaller portions of text or content.
-
-### What is the use of br tag?
-Br tag is used for breaking line
-```
-<br>
-```
-
-# CSS 
-
-### What is CSS ?
-- CSS Stands for Cascading Style Sheet . It is used to design webpages and control the visual appearance of HTML elements. <br>
-- CSS describes how HTML elements should be displayed on different devices such as desktop , laptops , tablets or other media.
-
-<br>
-
-# JAVASCRIPT
-
-### What is Javascript ?
-- JavaScript is a dynamic programming language , a scripting language used to develop web applications, games, and more. It allows us to implement dynamic features on web pages that cannot do with just HTML and CSS.
-
-<br>
-
-# Javascript Libraries
-
-## React.js
-
-### What is React ?
-- React is a Javascript library used for building user interfaces, It uses components to build web applications. React is a single page application.
-
-### Explain JSX 
-- JSX (JavaScript XML) is a syntax entension for JavaScript recommended by React for describing what the UI should look like.
-
-### What is the virtual DOM?
-- The virtual DOM is a lightweight copy of the actual DOM in memory. React uses it to improve performance by updating only the changed parts of the actual DOM.
-
-### What is the significance of keys in React?
-- Keys are used to uniquely identify and differentiate between components in React. They help React identify which items have changed
-
-### What are state and props in React ?
-- State is an internal data store that belongs to a specific component, and it can be changed over time. Props are properties passed to a component from its parent, and they are immutable.
-
-### What is the difference between state and props in React?
-- State is internal to a component and can be changed over time, ehile props are external and passed to a component.
-
-### Expalin the concept of lifting state up.
-- Lifting state up is a pattern where the state of a child component is moved to its parents component to share th same state.
-
-### What is the purpose of setState in React?
-- setState is used to update the state of a component and trigger a re-render.
-
-## Node.js
-
-### What is Node.js What are its key features ?
--
-### How does Node.js differ from traditional server-side languages like Java or PHP ?
--
-### What is NPM and what is its role in Node.js
-
-## Angular
-- Angular is the framework developed by Google using TypeScript language.
-
-## AngularJs
-- AngularJs is framwork developed by Google using JavaScript language.
 
 
