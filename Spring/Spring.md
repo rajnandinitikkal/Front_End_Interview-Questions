@@ -180,6 +180,9 @@ Official website
 
 - Microservices is an architecture that allows us to break down a single large application into smaller and independently deployable services.
 
+### Setting up development 
+- use Spring toll suite : spring.io/tools
+
 
 
 
